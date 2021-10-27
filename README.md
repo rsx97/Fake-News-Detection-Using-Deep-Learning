@@ -42,6 +42,22 @@ Final Result:
 
 From the frontend app  you can enter any type of input : there is 7 methods of cleaning (numbers,urls,emojis.....)
 
+## How it works :
+Firstly you should create virtualenvironment for your flask project in yor desktop.
+
+    install virtualenvironment : install virtualenvironment at your terminal or dos
+
+    pip install virtualenv
+
+    Clone the repository and access it with Windows PowerShell
+
+    virtualenv venv : created virtualenvironment named "venv"
+
+and activate your venv.
+Now, you can start install flask.
+-pip install Flask
+-Run the Windows PowerShell
+-Type in the command line : flask run
 
 ## DEMO Image:
 <img src="https://github.com/rsx97/Fake-News-Detection-Using-Deep-Leearning/blob/main/static/images/Capture%20d%E2%80%99%C3%A9cran%20(25).png" width=800/>
