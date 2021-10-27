@@ -36,13 +36,12 @@ https://github.com/rsx97/Dataset_fake_real
 
 ## Method used :
 LSTM
-https://en.wikipedia.org/wiki/Long_short-term_memory
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 Final Result:
 
-From the frontend app take the following as input
-any type of input : there is 7 methods of cleaning (numbers,urls,emojis.....)
+From the frontend app  you can enter any type of input : there is 7 methods of cleaning (numbers,urls,emojis.....)
 
 
-DEMO Image:
+## DEMO Image:
 <img src="https://github.com/rsx97/Fake-News-Detection-Using-Deep-Leearning/blob/main/static/images/Capture%20d%E2%80%99%C3%A9cran%20(25).png" width=800/>
