@@ -1,4 +1,4 @@
-# Fake-News-Detection-Using-Deep-Leearning
+# Fake-News-Detection-Using-Deep-Learning
 The main objective of this study was to develop a language independent detection method to detect fake news on social media in the first places and also on different platforms using long term memory networks - usually simply called "LSTM" - are a special type of RNN, then to assess the performance of our developed method. Such a method can optionally be integrated into a social network site to filter comments or tweets containing false information and also be integrated into any information exchange platforms.
 
 
